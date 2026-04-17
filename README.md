@@ -9,7 +9,9 @@
 
 ## Introduction
 
-This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
+This project presents a complete end-to-end data engineering pipeline, designed to demonstrate how data flows from ingestion to processing and finally to storage in a real-world scenario.
+It leverages a modern, scalable tech stack including Apache Airflow for orchestration, Apache Kafka and Apache Zookeeper for real-time streaming, Apache Spark for distributed data processing, and Apache Cassandra for high-performance data storage — all powered by Python.
+The entire system is fully containerized using Docker, ensuring seamless deployment, scalability, and reproducibility.
 
 ## System Architecture
 
