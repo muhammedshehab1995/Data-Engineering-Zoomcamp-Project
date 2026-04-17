@@ -35,10 +35,9 @@ The project is designed with the following components:
 - Cassandra
 - PostgreSQL
 - Docker
+
 🐳 Docker Images
-
 Pull all required images before running the project:
-
 docker pull confluentinc/cp-zookeeper:7.4.0
 docker pull confluentinc/cp-server:7.4.0
 docker pull confluentinc/cp-schema-registry:7.4.0
