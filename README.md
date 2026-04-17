@@ -35,6 +35,19 @@ The project is designed with the following components:
 - Cassandra
 - PostgreSQL
 - Docker
+🐳 Docker Images
+
+Pull all required images before running the project:
+
+docker pull confluentinc/cp-zookeeper:7.4.0
+docker pull confluentinc/cp-server:7.4.0
+docker pull confluentinc/cp-schema-registry:7.4.0
+docker pull confluentinc/cp-enterprise-control-center:7.4.0
+docker pull apache/airflow:2.6.0-python3.9
+docker pull postgres:14.0
+docker pull bitnami/spark:latest
+docker pull cassandra:latest
+
 
 ## Getting Started
 
