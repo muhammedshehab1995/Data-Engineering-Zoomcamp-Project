@@ -39,21 +39,15 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/muhammedshehab1995/Data-Engineering-Zoomcamp-Project.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd e2e-data-engineering
+    cd Data-Engineering-Zoomcamp-Project
     ```
 
 3. Run Docker Compose to spin up the services:
     ```bash
     docker-compose up
     ```
-
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
-
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
